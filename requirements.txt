@@ -16,7 +16,7 @@ Jinja2==2.11.3
 kombu==4.6.7
 MarkupSafe==1.1.1
 mysql==0.0.2
-protobuf==3.11.2
+protobuf==3.18.3
 pytz==2019.3
 redis==3.4.1
 requests==2.22.0
